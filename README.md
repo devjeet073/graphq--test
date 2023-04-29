@@ -1,2 +1,2 @@
-# graphq--test
+# graphq-test
 Testing laravel graph test
